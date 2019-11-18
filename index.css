@@ -1,0 +1,214 @@
+.aqua{
+    color:aqua;
+  }
+  .red{
+    color:red;
+  }
+  .gray{
+    color: gray;
+  }
+  .brown{
+    color: rgb(109, 5, 5);
+  }
+  .lightgreen{
+    color: lawngreen;
+  }
+  .blue{
+    color: blue;
+  }
+  .orange{
+    color: orange;
+  }
+  .gold{
+    color: gold;
+  }
+  .green{
+    color: green;
+  }
+  .aquabuttonBanker{
+    background-color: aqua;
+    border: 2px solid green;
+    border-radius: 50px;
+    color: green;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease; 
+    }
+    .aquabuttonBanker:hover{
+      background-color: blue;
+    }
+    .aquabuttonBanker:active{
+      background-color: aqua
+    }
+    .aquabutton{
+      background-color: aqua;
+      border: 2px solid green;
+      border-radius: 50px;
+      color: green;
+      padding: 10px 10px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      outline: none;
+      transition: all 300ms ease;    
+      }
+      .aquabutton:hover{
+        background-color: blue;
+      }
+      .aquabutton:active{
+        background-color: aqua
+      }
+    .redbutton{
+    background-color: red;
+    border: 2px solid rgb(163, 53, 53);
+    border-radius: 50px;
+    color: rgb(163, 53, 53);
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .redbutton:hover{
+      background-color: rgb(172, 2, 2);
+      color: red;
+    }
+    .redbutton:active{
+      background-color: red;
+    }
+    .graybutton{
+    background-color: darkgray;
+    border: 2px solid blue;
+    border-radius: 50px;
+    color: blue;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .graybutton:hover{
+      background-color: gray;
+    }
+    .graybutton:active{
+      background-color: darkgray;
+    }
+    .greenbutton{
+    background-color: green;
+    border: 2px solid rgb(109, 5, 5);
+    border-radius: 50px;
+    color: rgb(109, 5, 5);
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .greenbutton:hover{
+      background-color: rgb(0, 88, 0);
+    }
+    .greenbutton:active{
+      background-color: green;
+    }
+    .lightgreenbutton{
+    background-color: lawngreen;
+    border: 2px solid green;
+    border-radius: 50px;
+    color: green;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .lightgreenbutton:hover{
+      background-color: green;
+      color: lawngreen;
+    }
+    .lightgreenbutton:active{
+      background-color: lawngreen;
+    }
+    .bluebutton{
+    background-color: blue;
+    border: 2px solid darkblue;
+    border-radius: 50px;
+    color: darkblue;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .bluebutton:hover{
+      background-color: darkblue;
+      color: blue;
+    }
+    .bluebutton:active{
+      background-color: blue;
+    }
+    .orangebutton{
+    background-color: orange;
+    border: 2px solid rgb(207, 114, 1);
+    border-radius: 50px;
+    color: rgb(207, 114, 1);
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .orangebutton:hover{
+      background-color: rgb(207, 114, 1);
+      color: orange;
+    }
+    .orangebutton:active{
+      background-color: orange;
+    }
+    .yellowbutton{
+    background-color: yellow;
+    border: 2px solid gold;
+    border-radius: 50px;
+    color: gold;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .yellowbutton:hover{
+      background-color: gold;
+      color: yellow;
+    }
+    .yellowbutton:active{
+      background-color: yellow;
+    }
+    .blue_greenbutton{
+    background-color: blue;
+    border: 2px solid green;
+    border-radius: 50px;
+    color: green;
+    padding: 10px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    outline: none;
+    transition: all 300ms ease;
+    }
+    .blue_greenbutton:hover{
+      background-color: green;
+      color: blue;
+      border: 2px solid blue;
+    }
+    .blue_greenbutton:active{
+      background-color: blue;
+    }
